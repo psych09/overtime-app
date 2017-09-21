@@ -19,3 +19,4 @@ Bootstrap -> formatting
 
 ## TO DO's:
 - Refactor user assocation integration test in post_spec
+- Add user full name method
