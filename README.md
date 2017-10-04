@@ -16,6 +16,8 @@
 
 ## UI:
 - x Bootstrap -> formatting
+- Icons from Font Awesome
+- Update the styles for forms
 
 ## TO DO's:
 - Refactor user assocation integration test in post_spec
