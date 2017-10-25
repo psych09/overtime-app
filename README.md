@@ -21,7 +21,4 @@
 - x Update the styles for forms
 
 ## TO DO's:
-- Refactor user assocation integration test in post_spec
 - Refactor posts/_form for admin user with status
-- Fix post_spec.rb to user factories
-- Fix post_spec.rb:52 to have correct user reference and not require update
