@@ -10,11 +10,13 @@
 
 ## Features:
 - x Approval Workflow
-- SMS Sending -> link to approval or overtime input -> integrate with Heroku scheduler
+- x SMS Sending -> link to approval or overtime input -> integrate with Heroku scheduler
 - x Administrate admin dashboard
 - x Block non admin and guest users
 - Email summary to managers for approval
 - x Needs to be documented if employee did not log overtime
+- Create audit log for each text message
+- Need to update end_date when confirmed
 
 ## TODOS:
 - Fix spec so that it passes with the fake_sms.rb file
