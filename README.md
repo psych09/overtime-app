@@ -13,10 +13,18 @@
 - x SMS Sending -> link to approval or overtime input -> integrate with Heroku scheduler
 - x Administrate admin dashboard
 - x Block non admin and guest users
-- Email summary to managers for approval
+- xx Email summary to managers for approval
 - x Needs to be documented if employee did not log overtime
 - Create audit log for each text message
 - Need to update end_date when confirmed
+- Need to update audit log status when an overtime item rejected
+- Update buttons on employee homepage so they show on mobile
+- Update buttons to include time span
+- Update button sort order on employee homepage
+- Remove unecessary nav bar buttons for managers
+- Fix admin dashboard bug
+- Implement Honeybadger error reporting
+- Implement new relic for keeping site alive
 
 ## TODOS:
 - Fix spec so that it passes with the fake_sms.rb file
