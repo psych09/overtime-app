@@ -24,7 +24,7 @@
 - x Remove unecessary nav bar buttons for managers
 - x Fix admin dashboard bug
 - xx Implement Honeybadger error reporting
-- Implement new relic for keeping site alive
+- x Implement new relic for keeping site alive
 
 ## TODOS:
 - Fix spec so that it passes with the fake_sms.rb file
